@@ -1,0 +1,15 @@
+**/.git
+**/.gitignore
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/.build-check
+**/.keys
+**/*.user
+**/*.suo
+**/*.cache
+**/*.log
+Dockerfile
+docker-compose*.yml
+README.md
